@@ -1,2 +1,2 @@
 # Stokku
-Mobile aplikasi pengelolaan inventaris
+Tampilan untuk Mobile aplikasi pengelolaan inventaris
